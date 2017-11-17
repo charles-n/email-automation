@@ -8,7 +8,7 @@ This is a basic script to help you automate emails through R.  With some coding 
 #
 
 This may require
-    * Microsoft Outlook 2016
-    * Windows PowerShell Version 5.1
-    * R version 3.4
-    * intermediate programming skills in R
+* Microsoft Outlook 2016
+* Windows PowerShell Version 5.1
+* R version 3.4
+* intermediate programming skills in R
