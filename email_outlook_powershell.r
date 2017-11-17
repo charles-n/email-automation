@@ -9,7 +9,7 @@ ps1 <- c(
     "$Mail = $Outlook.CreateItem(0) ", 
     
     ### list email addresses, you can get clever by using an R vector of emails or for loops
-    "$Send_list = 'charles.nguyen@hilton.com','charles.nguyen@hilton.com' ", 
+    "$Send_list = 'charles.nguyen@hilton.com','charles_nguyen@neimanmarcus.com' ", 
     "$Send_list | % {$Mail.Recipients.add($_)} ", 
     
     ### email subject line
