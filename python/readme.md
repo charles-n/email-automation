@@ -4,7 +4,7 @@ This will serve as a base to email sending needs included in your Python script.
 * schedule deployments at any hour of the day
 * use a custom list of email addresses
 * make dynamic changes to subject line and body text
-* have multiple attachments to include: csv files, ggplot outputs, etc.
+* have multiple attachments to include: csv files, seaborn plot outputs, etc.
 
 This may require
 * intermediate programming skills in Python
