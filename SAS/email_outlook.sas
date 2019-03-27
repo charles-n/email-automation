@@ -1,3 +1,5 @@
+proc sql noprint; select count(*) into :cnt from PERM.LIVE_LEADS_EXPORT2; quit;
+
 data _null_;
 	file "D:\email_notif.ps1";
 		put '[String[]]$Send_list = "charles.nguyen@hilton.com","charles.nguyen@hilton.com" ';
