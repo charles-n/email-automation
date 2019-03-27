@@ -1,6 +1,6 @@
 data _null_;
 	file "D:\email_notif.ps1";
-		put '[String[]]$Send_list = "charles.nguyen@hilton.com","charles.nguyen@mavs.uta.edu" ';
+		put '[String[]]$Send_list = "charles.nguyen@hilton.com","charles.nguyen@hilton.com" ';
 
 		put '$Outlook = New-Object -ComObject Outlook.Application ';
 		put '$Mail = $Outlook.CreateItem(0) ';
