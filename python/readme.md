@@ -7,7 +7,7 @@ This will serve as a base to email sending needs included in your Python script.
 * have multiple attachments to include: csv files, ggplot outputs, etc.
 
 This may require
-* intermediate programming skills in R
+* intermediate programming skills in Python
 * Microsoft Outlook 2016
 * Windows PowerShell Version 5.1
 * Python version 3.6.7
